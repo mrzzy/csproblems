@@ -1,12 +1,13 @@
 {
   "name": "1422_maximum_score_after_splitting_a_string",
   "version": "1.0.0",
-  "description": "",
+  "description": "Leetcode - 1422. Maximum Score After Splitting a String",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc --project src --outDir build",
+    "start": "npm run build -- -w"
   },
-  "author": "",
+  "author": "mrzzy",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.7.4"
