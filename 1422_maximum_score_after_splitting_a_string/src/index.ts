@@ -30,7 +30,6 @@ function maxScore(s: string): number {
 
   // move cut position across string, updating left, right score caches
   let max = left + right;
-  console.log("first:" + max);
   for (let cut = 2; cut < s.length; cut++) {
     if (s.at(cut - 1) == "0") {
       // left substr gained a '0' char
@@ -43,8 +42,6 @@ function maxScore(s: string): number {
 
     // keep the max left + right score as max score
     max = Math.max(left + right, max);
-
-    console.log(s.at(cut) + ":" + max);
   }
 
   return max;
