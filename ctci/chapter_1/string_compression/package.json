@@ -1,0 +1,17 @@
+{
+  "name": "string_compression",
+  "version": "0.0.1",
+  "description": "Cracking the Coding Interview: Chapter 1: String Compression",
+  "main": "compress.js",
+  "scripts": {
+    "start": "node compress.js",
+    "test": "jest",
+    "fmt": "prettier --write ."
+  },
+  "author": "mrzzy",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "prettier": "2.3.2"
+  }
+}
