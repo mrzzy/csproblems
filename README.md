@@ -5,6 +5,7 @@ Solutions to Computer Science (CS) problems
 CS Problems worked on this repository are from the given problem sets:
 - [Leetcode](https://leetcode.com/) (Online Judge)
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) (Book) <sup>[1]</sup>
+- [Advent of Code (AOC)](https://adventofcode.com/)
 
 ## Language Roster
 Rotate programming language used to implement solutions based on roster ta nurture
