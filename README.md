@@ -17,6 +17,7 @@ a baseline familarity in language specific skills (eg. build systems, syntax):
 - Python
 - Rust
 - Java
+- SQL
 
 ## References
 [1] G. L. McDowell, Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th edition. Palo Alto, CA: CareerCup, LLC, 10.
