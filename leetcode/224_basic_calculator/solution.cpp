@@ -7,7 +7,6 @@
 #include <algorithm>
 #include <cctype>
 #include <memory>
-#include <pstl/glue_algorithm_defs.h>
 #include <stack>
 #include <stdexcept>
 #include <string>
