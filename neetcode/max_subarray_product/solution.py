@@ -1,6 +1,6 @@
 #
 # Neetcode
-# 77. Maximum Product Subarray
+# 76. Maximum Product Subarray
 # Python Solution
 #
 
