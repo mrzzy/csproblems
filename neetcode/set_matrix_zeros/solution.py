@@ -1,6 +1,6 @@
 #
 # Neetcode
-# 75. Unique Paths
+# 75. Set Matrix Zeros
 # Python Solution
 #
 
